@@ -1,8 +1,3 @@
-# Self_driving_car_Simulator
-A self driving car simulator model.
-
-<h2> changes will be appreciated </h2>
-
 # Simulate a Self-Driving-Car
 Using the technique of "Behavioral Cloning" to train a car to drive itself on a track in Unity3D simulation
 
@@ -33,4 +28,3 @@ python Run_Simulation.py --path=[PATH TO MODEL]
 ## Demo
 
 ![ Demo ]( ./Demo.gif )
-
